@@ -15,7 +15,6 @@ Building coding agents, computer-use agents, and the tools around them.
 - 🖥️ **[open-computer-use](https://github.com/Ananthakrishna24/open-computer-use)** - open-source computer-use agent
 - 🤖 **[mini-coding-agent](https://github.com/Ananthakrishna24/mini-coding-agent)** - a coding agent, distilled to the essentials
 - 🏠 **[anantha.sh](https://github.com/Ananthakrishna24/anantha.sh)** - my interactive portfolio, built with Svelte
-- 🌐 **[v4](https://github.com/Ananthakrishna24/v4)** - fourth iteration of my personal website, built with Gatsby
 
 ---
 
