@@ -1,6 +1,6 @@
 # Hi, I'm Ananthakrishna 👋
 
-🤖 **AI agent builder** | 🌐 **Full-stack dev** | 📍 India
+🤖 **Building AI agents** | 🌐 **Full-stack dev** | 📍 India
 
 Building coding agents, computer-use agents, and the tools around them.
 
