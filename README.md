@@ -18,4 +18,4 @@ Building coding agents, computer-use agents, and the tools around them.
 
 ---
 
-📫 Reach me: [ananthaak24@gmail.com](mailto:ananthaak24@gmail.com)
+📫 Get in touch: [ananthakrishna-s.netlify.app](https://ananthakrishna-s.netlify.app/)
